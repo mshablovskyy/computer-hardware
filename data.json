@@ -1,0 +1,24 @@
+[
+    {
+        "CPU":"Command Processing Unit",
+        "RAM":1,
+        "Storage Unit": true,
+        "Graphic Interface": null
+
+
+    },
+    {
+        "Monitor":"Present",
+        "Mouse":["Logitec","Google","LG"],
+        "Keyboard":{
+            "Keyboard":false
+        },
+        "Speaker":3.2
+    },
+    {
+        "Motherboard":2,
+        "Harddisk":true,
+        "Sound card":"present",
+        "Computer case":["Computer Case", "Computer System"]
+    }
+]
