@@ -6,7 +6,6 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 70vh;
     background-color: #f4f4f4;
 }
 
@@ -220,11 +219,10 @@ select {
 
 .buttons {
     display: flex;
-    justify-content: space-between;
 }
 
 button {
-    background-color: #28a745;
+    background-color: orange;
     /* Green background */
     color: white;
     border: none;
@@ -234,6 +232,6 @@ button {
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: rgb(190, 152, 81);
     /* Darker green on hover */
 }
